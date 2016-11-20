@@ -1,0 +1,10 @@
+ICS102 
+Introduction to Computing
+3
+200912340	Ahmad		ICS	A+
+200872340	Mohammad	COE	C
+201076360	Faisal		ICS	B+
+201178990	Yousef		SE	B
+201352560	Mousa		ICS	C+
+201262770	Isa		COE	A
+201162660	Khalid		SE	D
